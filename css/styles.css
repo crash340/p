@@ -1,5 +1,5 @@
 h1{
-  font-size: 7.2em;
+  font-size: 4.9em;
   text-align: center;
   font-family:chilanka;
   color:black;
@@ -11,8 +11,15 @@ p{
   line-height:1.4;
   font-family: chilanka;
   font-style: bold;
+  
+
+  text-align: center;
 }
 body{
   background-color:#F5C400;
 
+}
+div{
+  padding-left: 200px;
+  text-align: center;
 }
