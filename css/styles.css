@@ -1,12 +1,16 @@
 h1{
-  font-size: 4.2em;
+  font-size: 7.2em;
   text-align: center;
-  font-family: cursive;
+  font-family:chilanka;
+  color:black;
+  font-style: bold;
 
 }
 p{
   font-size: 3.2em;
   line-height:1.4;
+  font-family: chilanka;
+  font-style: bold;
 }
 body{
   background-color:#F5C400;
