@@ -2,7 +2,7 @@ h1{
   font-size: 2.2em;
 }
 .sidebar{
-  width:80%;
-  float: right;
-  background-color: green;
+  width:100px;
+  float:right;
+  background-color:green;
 }
